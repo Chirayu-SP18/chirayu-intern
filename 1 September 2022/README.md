@@ -3,7 +3,7 @@
 # Date 1-September-2022
 
 ## First Half
-- Started with AWS loud practioner module
+- Started with AWS Cloud practioner module
 
 - Linux 90 Days Devops finished with Section "Automate Bash Script"
 
