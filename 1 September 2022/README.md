@@ -1,13 +1,13 @@
 # chirayu-intern
 
-# Date 21-September-2022
+# Date 1-September-2022
 
 ## First Half
-Started with AWS loud practioner module
+- Started with AWS loud practioner module
 
-Linux 90 Days Devops finished with Section "Automate Bash Script"
+- Linux 90 Days Devops finished with Section "Automate Bash Script"
 
-Signed up for Microsoft Azure Virtual Conference on 29th September 2022
+- Signed up for Microsoft Azure Virtual Conference on 29th September 2022
 ### Videos
 - #### [AWS Cloud Practioner Video](https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitioner-essentials-all-modules)
 
@@ -15,11 +15,11 @@ Signed up for Microsoft Azure Virtual Conference on 29th September 2022
 
 ### Assignment
 
-NONE
+- NONE
 
 ### Doubts
 
-NONE
+- NONE
 
 ### Links Read
 - [90 Days of Devops by Michael Cade "Automate Bash Script"](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/Days/day19.md)
@@ -35,15 +35,15 @@ NONE
 
 ### Assignment
 
-To do video and hands on side by side 
+- To do video and hands on side by side 
 
 ### Doubts
 
-NONE
+- NONE
 
 ## Links Read
 
-NONE
+- NONE
 
 
 
